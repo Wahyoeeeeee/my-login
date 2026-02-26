@@ -18,11 +18,3 @@ Sistem autentikasi sederhana (Login & Register) yang dibangun menggunakan teknol
    ```bash
    git clone [https://github.com/username/my-login.git](https://github.com/username/my-login.git)
    ---
-
-### **Langkah Terakhir di Terminal:**
-1. **Save** kode di atas ke file `README.md`.
-2. Jalankan perintah ini:
-   ```bash
-   git add README.md
-   git commit -m "Add generic README"
-   git push origin main
